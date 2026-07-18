@@ -50,7 +50,7 @@ cv:
       - institution: National Institute of Business Management (NIBM)
         location: Sri Lanka
         area: Business Management
-        studyType: Higher National Diploma
+        studyType: Advanced Diploma
         start_date: 2014-10
         end_date: 2015-10
         highlights:
@@ -139,27 +139,49 @@ cv:
     Skills:
       - name: AI Tools
         level: Advanced
-        keywords: "OpenAI, Claude, OpenCode, prompt engineering, MCP, agentic workflows, LLM-based prototyping, AI automation with Python"
+        keywords:
+          - OpenAI
+          - Claude
+          - OpenCode
+          - prompt engineering
+          - MCP
+          - agentic workflows
+          - LLM-based prototyping
+          - AI automation with Python
 
       - name: Data Visualization
         level: Advanced
-        keywords: "Power BI, Tableau, QlikView, Qlik Sense"
+        keywords:
+          - Power BI
+          - Tableau
+          - QlikView
+          - Qlik Sense
 
       - name: Project Management
         level: Advanced
-        keywords: "JIRA, Confluence, Basecamp, MS Project"
+        keywords:
+          - JIRA
+          - Confluence
+          - Basecamp
+          - MS Project
 
       - name: Design, UI/UX
         level: Advanced
-        keywords: "Balsamiq Wireframes, Figma, Adobe XD"
+        keywords:
+          - Balsamiq Wireframes
+          - Figma
+          - Adobe XD
 
       - name: Collaborative & Workflow Tools
         level: Advanced
-        keywords: "Microsoft Visio, Miro"
+        keywords:
+          - Microsoft Visio
+          - Miro
 
       - name: SQL Programming
         level: Intermediate
-        keywords: "Relational database management"
+        keywords:
+          - Relational database management
 
     Certificates:
       - name: Model Context Protocol, Advanced Topics
