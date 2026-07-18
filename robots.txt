@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://batwolf-commits.github.io/maduraherath.github.io/sitemap.xml
+Sitemap: https://batwolf-commits.github.io/maduraherath/sitemap.xml
