@@ -1,8 +1,8 @@
-# Madura Herath — Personal Portfolio
+# Madura Bhathiya Herath — Personal Portfolio
 
 My academic/personal portfolio site, built with [Jekyll](https://jekyllrb.com/) using the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
-Live at: https://maduraherath.github.io/
+Live at: https://batwolf-commits.github.io/maduraherath/
 
 ## Local development
 
