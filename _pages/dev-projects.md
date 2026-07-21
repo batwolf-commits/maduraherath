@@ -2,7 +2,6 @@
 layout: page
 title: dev projects
 permalink: /dev-projects/
-description: Native macOS apps and developer tools I build.
 nav: true
 nav_order: 4
 _styles: >
@@ -39,8 +38,6 @@ _styles: >
     .dev-card { flex-direction: column; text-align: center; }
   }
 ---
-
-Native macOS apps and developer tools I build, separate from my research work.
 
 <div class="dev-card">
   <img class="app-icon" src="{{ '/assets/img/leftspace-icon.png' | relative_url }}" alt="LeftSpace app icon">
