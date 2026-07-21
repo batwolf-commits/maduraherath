@@ -44,9 +44,9 @@ _styles: >
   <div class="dev-body">
     <h3>LeftSpace</h3>
     <p>A safe macOS cleaner for developer caches and everyday junk. It finds the gigabytes hidden in npm, Gradle, Xcode, and app caches, then clears them safely. Trash-first by default, so it never touches your documents.</p>
-    <a class="dev-btn" href="https://github.com/batwolf-commits/leftspace/releases/latest">Download for macOS</a>
+    <a class="dev-btn" href="https://github.com/bhathiyagit/leftspace/releases/latest">Download for macOS</a>
     <div class="dev-links">
-      <a href="https://github.com/batwolf-commits/leftspace">View on GitHub</a>
+      <a href="https://github.com/bhathiyagit/leftspace">View on GitHub</a>
     </div>
   </div>
 </div>
