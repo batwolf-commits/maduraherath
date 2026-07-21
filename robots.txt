@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://madurabhathiya.github.io/maduraherath/sitemap.xml
+Sitemap: https://madurabhathiya.github.io/sitemap.xml
