@@ -4,14 +4,14 @@ Personal and academic portfolio of **Madura Bhathiya Herath**, a Business Analys
 and HCI/UX researcher based in Sweden. Built with [Jekyll](https://jekyllrb.com/)
 using the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
-**Live site:** https://bhathiyagit.github.io/maduraherath/
+**Live site:** https://madurabhathiya.github.io/maduraherath/
 
 ## What's here
 
 - **About** — background, research interests, and contact.
 - **Publications** — papers and academic writing.
 - **Projects** — selected research and applied work.
-- **Dev Projects** — software I build, including [LeftSpace](https://github.com/bhathiyagit/leftspace), a native macOS storage cleaner.
+- **Dev Projects** — software I build, including [LeftSpace](https://github.com/madurabhathiya/leftspace), a native macOS storage cleaner.
 - **CV** — full curriculum vitae.
 - **Blog & News** — occasional writing and updates.
 
