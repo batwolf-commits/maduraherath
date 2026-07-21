@@ -4,7 +4,7 @@ Personal and academic portfolio of **Madura Bhathiya Herath**, a Business Analys
 and HCI/UX researcher based in Sweden. Built with [Jekyll](https://jekyllrb.com/)
 using the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
-**Live site:** https://madurabhathiya.github.io/maduraherath/
+**Live site:** https://madurabhathiya.github.io/
 
 ## What's here
 
@@ -23,13 +23,12 @@ npm install             # install Node dependencies
 bundle exec jekyll serve
 ```
 
-The site is then available at `http://localhost:4000/maduraherath/` (note the
-`baseurl`).
+The site is then available at `http://localhost:4000/`.
 
 To produce a production build:
 
 ```bash
-bundle exec jekyll build --baseurl /maduraherath
+bundle exec jekyll build
 ```
 
 ## Editing content
